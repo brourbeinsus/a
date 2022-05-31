@@ -1,0 +1,12 @@
+body {
+background: #9966FF
+color
+}
+
+body.darkmode {
+background: #9966FF;
+color: #9966FF;
+}
+.darkmode h2 {
+color: #9966FF
+}
